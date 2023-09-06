@@ -1,4 +1,4 @@
-package com.lijianjoin.test;
+package com.lijianjoin.test.junit4;
 
 public class ExampleService {
 

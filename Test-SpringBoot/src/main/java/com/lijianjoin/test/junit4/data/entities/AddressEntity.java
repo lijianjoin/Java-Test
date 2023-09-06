@@ -1,4 +1,4 @@
-package com.lijianjoin.test.data.entities;
+package com.lijianjoin.test.junit4.data.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
