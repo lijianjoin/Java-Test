@@ -1,0 +1,1 @@
+This project show how to use the JUnit test with spring framework 
