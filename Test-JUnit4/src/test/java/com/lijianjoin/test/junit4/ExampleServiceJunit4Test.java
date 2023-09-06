@@ -1,18 +1,16 @@
 package com.lijianjoin.test.junit4;
 
-import com.lijianjoin.test.junit4.ExampleService;
-
 import org.junit.*;
 
 import static org.junit.Assert.assertEquals;
 
-public class ExampleServiceTest {
+public class ExampleServiceJunit4Test {
 
-    private ExampleService testService;
+    private ExampleServiceJunit4 testService;
 
     @Before
     public void setUp() throws Exception {
-        testService = new ExampleService();
+        testService = new ExampleServiceJunit4();
     }
 
     @BeforeClass
